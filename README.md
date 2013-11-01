@@ -1,11 +1,8 @@
-dropdown
-========
-
-Dropdown
+<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css" rel="stylesheet">
 <script src="http://code.jquery.com/jquery-latest.min.js"></script>
-<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css" rel="stylesheet">
+<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.1/js/bootstrap.min.js"></script>	
 
-<div class="dropdown"></div>
+<div class="dropdown">
 	
 <a href="#" class="dropdown-toggle btn" data-toggle="dropdown">
     	Dropdown
@@ -22,4 +19,4 @@ Dropdown
      </ul>
 
 </div>
-<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.1/js/bootstrap.min.js"></script>
+
