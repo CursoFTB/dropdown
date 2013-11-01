@@ -2,7 +2,7 @@ dropdown
 ========
 
 Dropdown
-<script src="http://code.jquery.com/jquery-latest.min.js"</script>
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
 <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css" rel="stylesheet">
 
 <div class="dropdown"></div>
